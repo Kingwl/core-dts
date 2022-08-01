@@ -1,9 +1,9 @@
 /// <reference path="../stage-3/index.d.ts" />
 
-/// <reference path="./iterator-helper/index.d.ts" />
-/// <reference path="./new-set-methods/index.d.ts" />
-/// <reference path="./map-prototype-emplace/index.d.ts" />
-/// <reference path="./array-from-async/index.d.ts" />
-/// <reference path="./array-is-template-object/index.d.ts" />
-/// <reference path="./symbol-dispose/index.d.ts" />
-/// <reference path="./symbol-metadatakey/index.d.ts" />
+/// <reference path="./iterator-helper.d.ts" />
+/// <reference path="./new-set-methods.d.ts" />
+/// <reference path="./map-prototype-emplace.d.ts" />
+/// <reference path="./array-from-async.d.ts" />
+/// <reference path="./array-is-template-object.d.ts" />
+/// <reference path="./symbol-dispose.d.ts" />
+/// <reference path="./symbol-metadatakey.d.ts" />
