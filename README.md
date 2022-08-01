@@ -7,14 +7,14 @@
 - [x] Stage 3 proposals
     - [x] `Array` grouping
     - [x] Change `Array` by copy
-- [ ] Stage 2 proposals
+- [x] Stage 2 proposals
     - [x] `Iterator` helpers
     - [x] New `Set` methods
     - [x] `Map.prototype.emplace`
     - [x] `Array.fromAsync`
     - [x] `Array.isTemplateObject`
-    - [ ] `Symbol.{ asyncDispose, dispose }` for `using` statement
-    - [ ] `Symbol.metadataKey` for decorators metadata proposal
+    - [x] `Symbol.{ asyncDispose, dispose }` for `using` statement
+    - [x] `Symbol.metadataKey` for decorators metadata proposal
 - [ ] Stage 1 proposals
     - [ ] `Observable`
     - [ ] New collections methods
