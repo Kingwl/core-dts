@@ -4,8 +4,8 @@
 	"types": "./src/index.d.ts",
 	"scripts": {
 		"test": "tsc",
-		"format": "prettier ./{src,tests}/**/*.ts -w",
-		"format:check": "prettier ./{src,tests}/**/*.ts -c"
+		"format:check": "prettier --config ./.prettierrc ./{src,tests}/**/*.ts -c",
+		"format": "pnpm format:check --write"
 	},
 	"devDependencies": {
 		"prettier": "^2.7.1",
