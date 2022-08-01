@@ -1,1 +1,1 @@
-/// <reference path="./array-find-from-last/index.d.ts" />
+/// <reference path="./array-find-from-last.d.ts" />

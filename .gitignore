@@ -104,3 +104,5 @@ dist
 .tern-port
 
 pnpm-lock.yaml
+
+.DS_Store
