@@ -4,7 +4,7 @@
 	"types": "./src/index.d.ts",
 	"scripts": {
 		"test": "tsc",
-		"format:check": "prettier ./{src,tests}/**/*.ts",
+		"format:check": "prettier ./{src,tests}/**/*.ts -c",
 		"format": "pnpm format:check --write"
 	},
 	"devDependencies": {
