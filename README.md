@@ -24,6 +24,27 @@ Set add `core-dts` into `types` in `compiler options`.
 }
 ```
 
+## Proposals
+Default proposals are above `stage-3`. If you want to use something like `stage-2` proposal.
+
+```json
+{
+  "compilerOptions": {
+    "types": ["core-dts/src/proposals/stage-2"]
+  }
+}
+```
+
+Or you want to use some specific proposal.
+
+```json
+{
+  "compilerOptions": {
+    "types": ["core-dts/src/proposals/stage-2/iterator-helper.d.ts"]
+  }
+}
+```
+
 ## Features
 - [x] Finished proposals
     - [x] `Array` find from last

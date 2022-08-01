@@ -1,7 +1,11 @@
 {
 	"name": "core-dts",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"types": "./src/index.d.ts",
+	"author": "kingwl",
+	"repository": {
+		"url": "https://github.com/Kingwl/core-dts"
+	},
 	"scripts": {
 		"test": "tsc",
 		"format:check": "prettier \"./{src,tests}/**/*.ts\" -c",
