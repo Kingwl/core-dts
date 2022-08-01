@@ -1,6 +1,6 @@
 {
-	"name": "core-typescript",
-	"version": "0.0.2",
+	"name": "core-dts",
+	"version": "0.0.1",
 	"types": "./src/index.d.ts",
 	"scripts": {
 		"test": "tsc",

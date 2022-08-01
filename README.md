@@ -1,25 +1,25 @@
-# core-typescript
+# core-dts
 
 TypeScript will support all proposals above stage-3.  
 But there are always some gap between TypeScript support and proposal progress.  
 And sometimes we want to use proposals within stage-3 (e.g. `Iterator helper`) because we may use polyfill.  
 
 In this case, we have to write those declarations by our own.
-But with `core-typescript`, we can use these proposal with additional declaration files.
+But with `core-dts`, we can use these proposal with additional declaration files.
 
 ## Install
 
 ```
-pnpm add core-typescript -D
+pnpm add core-dts -D
 ```
 
 ## Setup
-Set add `core-typescript` into `types` in `compiler options`.
+Set add `core-dts` into `types` in `compiler options`.
 
 ```json
 {
   "compilerOptions": {
-    "types": ["core-typescript"]
+    "types": ["core-dts"]
   }
 }
 ```
