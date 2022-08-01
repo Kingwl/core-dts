@@ -1,11 +1,13 @@
 {
 	"name": "core-typescript",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"types": "./src/index.d.ts",
 	"scripts": {
-		"test": "tsc"
+		"test": "tsc",
+		"format": "prettier ./{src,tests}/**/*.ts -w"
 	},
 	"devDependencies": {
+		"prettier": "^2.7.1",
 		"typescript": "^4.7.4"
 	},
 	"files": [

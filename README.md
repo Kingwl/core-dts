@@ -1,7 +1,30 @@
-# core-ts [WIP]
+# core-typescript
 
-## TODO
-- [ ] ECMAScript proposals
+TypeScript will support all proposals above stage-3.  
+But there are always some gap between TypeScript support and proposal progress.  
+And sometimes we want to use proposals within stage-3 (e.g. `Iterator helper`) because we may use polyfill.  
+
+In this case, we have to write those declarations by our own.
+But with `core-typescript`, we can use these proposal with additional declaration files.
+
+## Install
+
+```
+pnpm add core-typescript -D
+```
+
+## Setup
+Set add `core-typescript` into `types` in `compiler options`.
+
+```json
+{
+  "compilerOptions": {
+    "types": ["core-typescript"]
+  }
+}
+```
+
+## Features
 - [x] Finished proposals
     - [x] `Array` find from last
 - [x] Stage 3 proposals
