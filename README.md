@@ -1,4 +1,4 @@
-# core-ts
+# core-ts [WIP]
 
 ## TODO
 - [ ] ECMAScript proposals
