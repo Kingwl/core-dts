@@ -1,0 +1,11 @@
+{
+	"name": "core-ts",
+	"version": "0.0.1",
+	"types": "./src/index.d.ts",
+	"scripts": {
+		"test": "tsc"
+	},
+	"dependencies": {
+		"typescript": "^4.7.4"
+	}
+}

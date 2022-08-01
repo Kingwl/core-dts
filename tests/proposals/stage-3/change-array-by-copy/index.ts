@@ -1,0 +1,4 @@
+[].toReversed;
+[].toSorted;
+[].toSpliced;
+[].with;
