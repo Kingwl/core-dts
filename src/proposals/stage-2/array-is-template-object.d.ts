@@ -1,3 +1,3 @@
 interface ArrayConstructor {
-    isTemplateObject(value: any): boolean;
+  isTemplateObject(value: any): boolean;
 }

@@ -1,3 +1,3 @@
 interface SymbolConstructor {
-    readonly metadataKey: unique symbol
+  readonly metadataKey: unique symbol;
 }
