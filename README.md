@@ -60,7 +60,7 @@ Or you want to use some specific proposal.
     - [x] `Symbol.{ asyncDispose, dispose }` for `using` statement
     - [x] `Symbol.metadataKey` for decorators metadata proposal
 - [ ] Stage 1 proposals
-    - [ ] `Observable`
+    - [1] `Observable`
     - [ ] New collections methods
     - [ ] `.of` and `.from` methods on collection constructors
     - [ ] `compositeKey` and `compositeSymbol`
