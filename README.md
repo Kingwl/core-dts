@@ -74,9 +74,7 @@ Or you want to use some specific proposal.
     - [x] `String.cooked`
     - [x] `String.prototype.codePoints`
     - [x] `Symbol.matcher` for pattern matching
-- [ ] Stage 0 proposals
-    - [ ] `Function.prototype.unThis`
-    - [ ] `Function.{ isCallable, isConstructor }`
-    - [ ] `URL`
-- [ ] Pre-stage 0 proposals
-    - [ ] `Reflect` metadata
+- [x] Stage 0 proposals
+    - [x] `Function.prototype.unThis`
+    - [x] `Function.{ isCallable, isConstructor }`
+
