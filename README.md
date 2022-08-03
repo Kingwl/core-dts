@@ -63,17 +63,17 @@ Or you want to use some specific proposal.
     - [x] `Observable`
     - [ ] New collections methods
     - [ ] `.of` and `.from` methods on collection constructors
-    - [ ] `compositeKey` and `compositeSymbol`
+    - [x] `compositeKey` and `compositeSymbol`
     - [x] `Array` filtering
     - [x] `Array` deduplication
     - [x] Getting last item from `Array`
     - [x] `Number.range`
     - [x] `Number.fromString`
-    - [ ] `Math` extensions
-    - [ ] `Math.signbit`
-    - [ ] `String.cooked`
-    - [ ] `String.prototype.codePoints`
-    - [ ] `Symbol.matcher` for pattern matching
+    - [x] `Math` extensions
+    - [x] `Math.signbit`
+    - [x] `String.cooked`
+    - [x] `String.prototype.codePoints`
+    - [x] `Symbol.matcher` for pattern matching
 - [ ] Stage 0 proposals
     - [ ] `Function.prototype.unThis`
     - [ ] `Function.{ isCallable, isConstructor }`
