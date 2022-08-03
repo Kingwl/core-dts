@@ -60,15 +60,15 @@ Or you want to use some specific proposal.
     - [x] `Symbol.{ asyncDispose, dispose }` for `using` statement
     - [x] `Symbol.metadataKey` for decorators metadata proposal
 - [ ] Stage 1 proposals
-    - [1] `Observable`
+    - [x] `Observable`
     - [ ] New collections methods
     - [ ] `.of` and `.from` methods on collection constructors
     - [ ] `compositeKey` and `compositeSymbol`
-    - [ ] `Array` filtering
-    - [ ] `Array` deduplication
-    - [ ] Getting last item from `Array`
-    - [ ] `Number.range`
-    - [ ] `Number.fromString`
+    - [x] `Array` filtering
+    - [x] `Array` deduplication
+    - [x] Getting last item from `Array`
+    - [x] `Number.range`
+    - [x] `Number.fromString`
     - [ ] `Math` extensions
     - [ ] `Math.signbit`
     - [ ] `String.cooked`
