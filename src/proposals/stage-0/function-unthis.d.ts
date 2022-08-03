@@ -1,3 +1,3 @@
 interface Function {
-    unThis(): Function;
+  unThis(): Function;
 }
