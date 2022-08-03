@@ -12,3 +12,5 @@
 /// <reference path="./string-cooked.d.ts" />
 /// <reference path="./string-code-points.d.ts" />
 /// <reference path="./symbol-matcher.d.ts" />
+/// <reference path="./of-from-methods-on-collections.d.ts" />
+/// <reference path="./new-collections-methods.d.ts" />
