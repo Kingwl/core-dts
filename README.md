@@ -59,10 +59,10 @@ Or you want to use some specific proposal.
     - [x] `Array.isTemplateObject`
     - [x] `Symbol.{ asyncDispose, dispose }` for `using` statement
     - [x] `Symbol.metadataKey` for decorators metadata proposal
-- [ ] Stage 1 proposals
+- [x] Stage 1 proposals
     - [x] `Observable`
-    - [ ] New collections methods
-    - [ ] `.of` and `.from` methods on collection constructors
+    - [x] New collections methods
+    - [x] `.of` and `.from` methods on collection constructors
     - [x] `compositeKey` and `compositeSymbol`
     - [x] `Array` filtering
     - [x] `Array` deduplication
