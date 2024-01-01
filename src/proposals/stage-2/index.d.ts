@@ -7,3 +7,4 @@
 /// <reference path="./array-is-template-object.d.ts" />
 /// <reference path="./symbol-dispose.d.ts" />
 /// <reference path="./symbol-metadatakey.d.ts" />
+/// <reference path="./arraybuffer-base64.d.ts" />
